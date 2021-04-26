@@ -1,0 +1,21 @@
+
+
+.app {
+	width: 50%;
+	margin: auto;
+	text-align: center;
+	background: #f1f2f3;
+	padding: 10%;
+}
+
+button {
+	background:#000;
+	color: black;
+	padding:  10%;
+	border-radius: 2em;
+	font-size: 2em;
+	border:none;
+}
+button:hover {
+	box-shadow: 0 0 10px 10px gray;
+}
